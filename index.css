@@ -1,0 +1,13 @@
+/* Style for background image and text color adjustment */
+.text-on-background {
+    background-image: url('background-image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(201, 113, 113); /* Ajustement de la couleur du texte pour la lisibilité */
+}
+
+h1 {
+text-align: center;
+}
+
