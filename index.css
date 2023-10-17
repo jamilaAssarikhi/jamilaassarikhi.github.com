@@ -6,9 +6,12 @@
     background-size: cover;
     color: rgb(201, 113, 113); /* Ajustement de la couleur du texte pour la lisibilité */
 }
-
 h1 {
-text-align: center;
+    color:aliceblue;
+}
+
+body {
+    color: white;
 }
 
 body {
@@ -16,4 +19,18 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover ;
-  }
+}
+
+.blockquote footer {
+    color: white;
+    margin-bottom: 20%;
+}
+
+.col-md-3 {
+    color: rgb(66, 16, 122);
+}
+
+h1 {
+text-align: center;
+}
+
